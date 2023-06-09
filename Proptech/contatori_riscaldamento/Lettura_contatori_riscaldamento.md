@@ -37,9 +37,7 @@ E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non
 
 In questo caso risulta maggiormente evidente quali sono i mesi in cui il calorifero ha consumato e quali no: il valore a settembre è basso perchè il calorifero era spento, viene acceso ad ottobre e smette di funzionare a maggio e giugno, dove le rilevazioni mensili tornano a zero.
 
-Conclusione
------------
-
+## Conclusione
 Per concludere possiamo dire che una verifica di questo tipo sui vostri ripartitori non è di solito necessaria, infatti la ditta che ha in gestione l’impianto del vostro condominio utilizza sistemi radio per leggere i ripartitori e i dati che riceve sono quasi sempre corretti.
 
 Può capitare però che riceviate, a seconda delle annate, delle bollette particolarmente salate per la quota variabile del riscaldamento e allora potrebbe interessarvi analizzare quali sono i caloriferi su cui spendete di più.
@@ -56,6 +54,6 @@ Il _valore attuale_ rappresenta più che altro la performance del calorifero, pa
 Le _unità_ invece rappresentano il consumo effettivo, infatti a parità di _valore attuale_ due caloriferi di dimensioni diverse hanno una _unità_ differente, perché scaldano in maniera diversa l’ambiente.  
 
 Ai fini della nostra analisi ho utilizzato i _valori attuali_, prima di tutto perché interpretare i coefficienti di riscaldamento non è il mio campo, secondariamente perchè il mio scopo primario era verificare la correttezza dei dati ricevuti dall’amministratore e al contempo farmi un’idea del funzionamento di un sistema di riscaldamento centralizzato.  
-Possiamo vedere da questa tabella come ogni ripartitore abbia differenti coefficienti per calcolare le unità di riscaldamento, e quindi come caloriferi con valori simili abbiano un impatto differente sul riscaldamento e quindi anche sulla bolletta a fine mese.
+Possiamo vedere da questa tabella come ogni ripartitore abbia differenti coefficienti per calcolare le unità di riscaldamento, e quindi come caloriferi con valori simili abbiano un impatto differente sul riscaldamento e quindi ==anche== sulla bolletta a fine mese.[^1]
 
 [^1]: This is the first footnote.
