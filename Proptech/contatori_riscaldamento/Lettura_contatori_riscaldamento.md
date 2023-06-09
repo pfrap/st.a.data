@@ -32,7 +32,7 @@ In questo modo chi è interessato semplicemente a leggere il consumo totale regi
 
 ![Testo di prova](Proptech/contatori_riscaldamento/Consumo_unità_ripartitori_appartamento_(frequenze_cumulate_assolute).svg "Frequenze cumulate assolute")
 
-![Testo di prova](Proptech/contatori_riscaldamento/cat.jpg "Gattino monello")
+![Testo di prova](cat.jpg)
 
 ## Frequenze assolute
 E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non cumulate), semplicemente sottraendo dalle mensilità successive il valore dei mesi precedenti.
