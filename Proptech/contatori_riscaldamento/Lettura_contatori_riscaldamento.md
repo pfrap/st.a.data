@@ -1,5 +1,4 @@
 # Lettura contatori riscaldamento
- Come intepretare i dati?
 
 Prima o poi chiunque abiti in un condominio con riscaldamento centralizzato si trova ad avere a che fare con le letture dei ripartitori dei costi del riscaldamento, vuoi per verificare la correttezza delle spese per il riscaldamento o vuoi per semplice curiosità.Questo è anche quello che è capitato a me quando ho ricevuto il prospetto delle ultime spese condominiali da pagare per la stagione invernale.  
 
