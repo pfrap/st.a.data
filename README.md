@@ -5,4 +5,4 @@
 * Primo progetto
 
 ## Proptech/Domotica
-* [Lettura dei contatori del riscaldamento](Lettura_contatori_riscaldamento.md)
+* [Lettura dei contatori del riscaldamento](PROPTECH/CONTATORI_RISCALDAMENTO/Lettura_contatori_riscaldamento.md)
