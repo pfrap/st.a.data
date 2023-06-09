@@ -33,12 +33,22 @@ Io personalmente avevo ricevuto dall’amministratore una tabella come questa qu
 
 **Unità:** è quel valore che poi viene utilizzato effettivamente dall’amministratore per identificare la quota variabile di riscaldamento di una certa unità abitativa.
 
-## Lettura manuale
+## Lettura manuale: frequenze cumulate assolute
 Se andiamo a leggere i dati sui ripartitori manualmente partiremo dalla mensilità numero 1 (l’ultima registrata e la più recente), fino ad arrivare alla mensilità di partenza della stagione invernale, in questo caso la mensilità numero 12 (settembre) in cui è stato attivato il riscaldamento e i ripartitori hanno cominciato a registrare.
 
 Come vediamo dalla tabella, i dati che leggiamo non sono le rilevazioni del consumo mensile, bensì le frequenze assolute cumulate di tali rilevazioni: cioè ad ogni mese si sommano le rilevazioni dei mesi precedenti.
 
 In questo modo chi è interessato semplicemente a leggere il consumo totale registrato dal ripartitore non deve leggere lo storico dei mesi ma può limitarsi alla lettura dell'ultimo mese.
+
+|                 |  12 |  11 |  10 |  9  |  8  |  7  |   6  |   5  |   4  |   3  |   2  |   1  |
+|-----------------|----:|:---:|:---:|:---:|:---:|:---:|:----:|:----:|:----:|:----:|:----:|:----:|
+| INDIRIZZO RADIO | set | ott | nov | dic | gen | feb |  mar |  apr |  mag |  giu |  lug |  ago |
+|     12295387    |  9  |  60 | 195 | 395 | 610 | 760 |  913 |  999 | 1001 | 1001 | 1001 | 1001 |
+|     12295388    |  11 |  71 | 215 | 417 | 629 | 774 |  923 | 1004 | 1006 | 1006 | 1006 | 1006 |
+|     12295389    |  3  |  71 |  79 | 266 | 335 | 417 |  491 |  548 |  548 |  548 |  548 |  548 |
+|     12295390    |  1  |  89 | 273 | 523 | 746 | 891 | 1034 | 1122 | 1124 | 1124 | 1124 | 1124 |
+|     12295391    |  11 |  88 | 270 | 516 | 774 | 949 | 1133 | 1235 | 1238 | 1238 | 1238 | 1238 |
+|     12295392    |  10 |  75 | 243 | 483 | 634 | 789 |  925 |  971 |  972 |  972 |  972 |  972 |
 
 ![Frequenze cumulate assolute](Consumo_unità_ripartitori_appartamento_(frequenze_cumulate_assolute).svg)
 
@@ -46,6 +56,16 @@ In questo modo chi è interessato semplicemente a leggere il consumo totale regi
 E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non cumulate), semplicemente sottraendo dalle mensilità successive il valore dei mesi precedenti.
 
 In questo caso risulta maggiormente evidente quali sono i mesi in cui il calorifero ha consumato e quali no: il valore a settembre è basso perchè il calorifero era spento, viene acceso ad ottobre e smette di funzionare a maggio e giugno, dove le rilevazioni mensili tornano a zero.
+
+|                 |  12 |  11 |  10 |  9  |  8  |  7  |  6  |  5  |  4  |  3  |  2  |  1  |
+|-----------------|----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| INDIRIZZO RADIO | set | ott | nov | dic | gen | feb | mar | apr | mag | giu | lug | ago |
+|     12295387    |  9  |  51 | 135 | 200 | 215 | 150 | 153 |  86 |  2  |  0  |  0  |  0  |
+|     12295388    |  11 |  60 | 144 | 202 | 212 | 145 | 149 |  81 |  2  |  0  |  0  |  0  |
+|     12295389    |  3  |  68 |  8  | 187 |  69 |  82 |  74 |  57 |  0  |  0  |  0  |  0  |
+|     12295390    |  1  |  88 | 184 | 250 | 223 | 145 | 143 |  88 |  2  |  0  |  0  |  0  |
+|     12295391    |  11 |  77 | 182 | 246 | 258 | 175 | 184 | 102 |  3  |  0  |  0  |  0  |
+|     12295392    |  10 |  65 | 168 | 240 | 151 | 155 | 136 |  46 |  1  |  0  |  0  |  0  |
 
 ![Frequenze assolute](Consumo_unità_ripartitori_appartamento_(frequenze_assolute).svg)
 
