@@ -1,4 +1,5 @@
 # Lettura contatori riscaldamento
+![Meow](cat.jpg)
 
 Prima o poi chiunque abiti in un condominio con riscaldamento centralizzato si trova ad avere a che fare con le letture dei ripartitori dei costi del riscaldamento, vuoi per verificare la correttezza delle spese per il riscaldamento o vuoi per semplice curiosità.Questo è anche quello che è capitato a me quando ho ricevuto il prospetto delle ultime spese condominiali da pagare per la stagione invernale.  
 
@@ -30,9 +31,7 @@ Come vediamo dalla tabella, i dati che leggiamo non sono le rilevazioni del cons
 
 In questo modo chi è interessato semplicemente a leggere il consumo totale registrato dal ripartitore non deve leggere lo storico dei mesi ma può limitarsi alla lettura dell'ultimo mese.
 
-![Testo di prova](Proptech/contatori_riscaldamento/Consumo_unità_ripartitori_appartamento_(frequenze_cumulate_assolute).svg "Frequenze cumulate assolute")
-
-![Testo di prova](cat.jpg)
+![Frequenze cumulate assolute](Consumo_unità_ripartitori_appartamento_(frequenze_cumulate_assolute).svg)
 
 ## Frequenze assolute
 E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non cumulate), semplicemente sottraendo dalle mensilità successive il valore dei mesi precedenti.
