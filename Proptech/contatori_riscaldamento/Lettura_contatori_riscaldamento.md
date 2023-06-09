@@ -30,6 +30,8 @@ Come vediamo dalla tabella, i dati che leggiamo non sono le rilevazioni del cons
 
 In questo modo chi è interessato semplicemente a leggere il consumo totale registrato dal ripartitore non deve leggere lo storico dei mesi ma può limitarsi alla lettura dell'ultimo mese.
 
+![Testo di prova](Proptech/contatori_riscaldamento/Consumo_unità_ripartitori_appartamento_(frequenze_cumulate_assolute).svg "Frequenze cumulate assolute")
+
 ## Frequenze assolute
 E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non cumulate), semplicemente sottraendo dalle mensilità successive il valore dei mesi precedenti.
 
