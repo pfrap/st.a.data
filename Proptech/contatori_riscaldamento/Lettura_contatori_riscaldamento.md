@@ -14,6 +14,15 @@ Se vi interessa verificare l’andamento del consumo dei singoli caloriferi pote
 
 Io personalmente avevo ricevuto dall’amministratore una tabella come questa qui sotto (i ripartitori che ho in casa sono dei Sontex 556 elettronici), e poi sono andato a verificare sui ripartitori i valori dei singoli mesi per verificare correttezza delle informazioni ricevute e per analizzare l’andamento nel tempo del consumo registrato.
 
+| DATA DI LETTURA | INDIRIZZO RADIO | NOMINATIVO | VALORE ATTUALE | Kc x Kq | UNITÀ |
+|:---------------:|:---------------:|:----------:|:--------------:|:-------:|:-----:|
+|    23/05/2022   |     12295387    |   FRAPOLI  |      1001      |   1,51  |  1507 |
+|    23/05/2022   |     12295388    |   FRAPOLI  |      1006      |   1,39  |  1398 |
+|    23/05/2022   |     12295389    |   FRAPOLI  |       548      |   0,3   |  164  |
+|    23/05/2022   |     12295390    |   FRAPOLI  |      1124      |   1,74  |  1952 |
+|    23/05/2022   |     12295391    |   FRAPOLI  |      1238      |   0,86  |  1061 |
+|    23/05/2022   |     12295392    |   FRAPOLI  |       972      |   1,32  |  1286 |
+
 **Data di lettura:** ci indica quando è stata fatta l’ultima rilevazione dei ripartitori (quella riportata in tabella) 
 
 **Indirizzo radio**: identifica in modo univoco il singolo ripartitore, così da poterlo associare all’unità abitativa e ad una stanza specifica.  
