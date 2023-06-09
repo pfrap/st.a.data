@@ -1,5 +1,5 @@
 # st.a.data
- A data projects collection
+ A data projects collections
 
 ## Sport/fitness projects
 * Primo progetto
