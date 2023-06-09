@@ -8,8 +8,7 @@ Il riscaldamento condominiale si compone sostanzialmente di due parti: una quota
 ## Il ripartitore
 Potete ottenere i dati dai vostri ripartitori in due modi.
 
-1.  Andando a leggere le mensilità registrate direttamente sul ripartitore: i ripartitori tengono in memoria di solito dalle 18 alle 36 mensilità che potete recuperare e mettere in tabella.
-
+1.  Andando a leggere le mensilità registrate direttamente sul ripartitore: i ripartitori tengono in memoria di solito dalle 18 alle 36 mensilità che potete recuperare e mettere in tabella.  
 Se vi interessa verificare l’andamento del consumo dei singoli caloriferi potete leggere tutte le mensilità, altrimenti vi basterà leggere solo l’ultima misurazione (numero 1) per capire qual’é il consumo totale del calorifero fino all’ultimo mese completo.
 2.  Altrimenti potete richiedere all’amministratore la tabella delle rilevazioni effettuate via radio dalla ditta che ha in gestione il riscaldamento del vostro condominio.  
 
@@ -31,6 +30,6 @@ Se andiamo a leggere i dati sui ripartitori manualmente partiremo dalla mensilit
 Come vediamo dalla tabella, i dati che leggiamo non sono le rilevazioni del consumo mensile, bensì le frequenze assolute cumulate di tali rilevazioni: cioè ad ogni mese si sommano le rilevazioni dei mesi precedenti.
 
 In questo modo chi è interessato semplicemente a leggere il consumo totale registrato dal ripartitore non deve leggere lo storico dei mesi ma può limitarsi alla lettura dell'ultimo mese.
-
+⛺
 
 [^1]: This is the first footnote.
