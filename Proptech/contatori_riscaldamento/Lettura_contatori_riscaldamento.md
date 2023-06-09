@@ -30,7 +30,6 @@ Se andiamo a leggere i dati sui ripartitori manualmente partiremo dalla mensilit
 Come vediamo dalla tabella, i dati che leggiamo non sono le rilevazioni del consumo mensile, bensì le frequenze assolute cumulate di tali rilevazioni: cioè ad ogni mese si sommano le rilevazioni dei mesi precedenti.
 
 In questo modo chi è interessato semplicemente a leggere il consumo totale registrato dal ripartitore non deve leggere lo storico dei mesi ma può limitarsi alla lettura dell'ultimo mese.
-⛺
 
 ## Frequenze assolute
 E’ ovviamente molto semplice ricavare la tabella delle frequenze assolute (non cumulate), semplicemente sottraendo dalle mensilità successive il valore dei mesi precedenti.
@@ -54,6 +53,6 @@ Il _valore attuale_ rappresenta più che altro la performance del calorifero, pa
 Le _unità_ invece rappresentano il consumo effettivo, infatti a parità di _valore attuale_ due caloriferi di dimensioni diverse hanno una _unità_ differente, perché scaldano in maniera diversa l’ambiente.  
 
 Ai fini della nostra analisi ho utilizzato i _valori attuali_, prima di tutto perché interpretare i coefficienti di riscaldamento non è il mio campo, secondariamente perchè il mio scopo primario era verificare la correttezza dei dati ricevuti dall’amministratore e al contempo farmi un’idea del funzionamento di un sistema di riscaldamento centralizzato.  
-Possiamo vedere da questa tabella come ogni ripartitore abbia differenti coefficienti per calcolare le unità di riscaldamento, e quindi come caloriferi con valori simili abbiano un impatto differente sul riscaldamento e quindi ==anche== sulla bolletta a fine mese.[^1]
+Possiamo vedere da questa tabella come ogni ripartitore abbia differenti coefficienti per calcolare le unità di riscaldamento, e quindi come caloriferi con valori simili abbiano un impatto differente sul riscaldamento e quindi anche sulla bolletta a fine mese.[^1]
 
 [^1]: This is the first footnote.
