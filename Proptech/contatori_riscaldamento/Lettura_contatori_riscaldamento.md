@@ -88,4 +88,13 @@ Le _unità_ invece rappresentano il consumo effettivo, infatti a parità di _val
 Ai fini della nostra analisi ho utilizzato i _valori attuali_, prima di tutto perché interpretare i coefficienti di riscaldamento non è il mio campo, secondariamente perchè il mio scopo primario era verificare la correttezza dei dati ricevuti dall’amministratore e al contempo farmi un’idea del funzionamento di un sistema di riscaldamento centralizzato.  
 Possiamo vedere da questa tabella come ogni ripartitore abbia differenti coefficienti per calcolare le unità di riscaldamento, e quindi come caloriferi con valori simili abbiano un impatto differente sul riscaldamento e quindi anche sulla bolletta a fine mese.
 
+|    INDIRIZZO RADIO    | VALORE ATTUALE | Kc x Kq | UNITÀ |
+|:---------------------:|:--------------:|:-------:|:-----:|
+|    12295387 (sala)    |      1001      |   1,51  |  1507 |
+|   12295388 (cucina)   |      1006      |   1,39  |  1398 |
+| 12295389 (anticamera) |       548      |   0,3   |  164  |
+|  12295390 (camera 2)  |      1124      |   1,74  |  1952 |
+|    12295391 (bagno)   |      1238      |   0,86  |  1061 |
+|  12295392 (camera 1)  |       972      |   1,32  |  1286 |
+
 ![Valore attuale ripartitori](Unità_valore_attuale_ripartitori.svg)
