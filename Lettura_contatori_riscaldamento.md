@@ -14,8 +14,8 @@ Se vi interessa verificare l’andamento del consumo dei singoli caloriferi pote
 
 Io personalmente avevo ricevuto dall’amministratore una tabella come questa qui sotto (i ripartitori che ho in casa sono dei Sontex 556 elettronici), e poi sono andato a verificare sui ripartitori i valori dei singoli mesi per verificare correttezza delle informazioni ricevute e per analizzare l’andamento nel tempo del consumo registrato.
 
-**Data di lettura:** ci indica quando è stata fatta l’ultima rilevazione dei ripartitori (quella riportata in tabella)
-**Indirizzo radio**: identifica in modo univoco il singolo ripartitore, così da poterlo associare all’unità abitativa e ad una stanza specifica.
+**Data di lettura:** ci indica quando è stata fatta l’ultima rilevazione dei ripartitori (quella riportata in tabella) 
+**Indirizzo radio**: identifica in modo univoco il singolo ripartitore, così da poterlo associare all’unità abitativa e ad una stanza specifica.  
 **Valore attuale**: è la rilevazione che possiamo leggere direttamente sul ripartitore se andiamo a fare la lettura manuale. Riporta la lettura registrata nell’ultimo mese completato (se andiamo a fare la lettura manuale è il mese numero 1, il primo che ci viene presentato)
 **Kc x Kq** sono dei coefficienti che la ditta manutentrice utilizza per calcolare l’effettivo consumo dei caloriferi; dipende da vari fattori come materiale in cui è fatto il calorifero, dimensioni.. ecc..
 **Unità:** è quel valore che poi viene utilizzato effettivamente dall’amministratore per identificare la quota variabile di riscaldamento di una certa unità abitativa.
