@@ -5,6 +5,10 @@ Prima o poi chiunque abiti in un condominio con riscaldamento centralizzato si t
 
 Il riscaldamento condominiale si compone sostanzialmente di due parti: una quota fissa e una quota variabile.In questo breve articolo non entrerò nel merito di quella fissa e di come essa venga calcolata dall’amministratore, ma mi limiterò ad alcune brevi riflessioni riguardanti la parte variabile per come risulta dalla lettura dei miei ripartitori, di come leggere i dati e come verificarne la correttezza sulle spese condominiali.
 
+***Ok, vediamo di capirci qualcosa in più!***
+
+![Caldino](https://media.giphy.com/media/TBPc1WnCgjdXq/giphy.gif)
+
 ## Il ripartitore
 Potete ottenere i dati dai vostri ripartitori in due modi.
 
