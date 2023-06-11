@@ -11,4 +11,4 @@ Alcuni dei miei progetti
 
 ## Proptech/Domotica
 * [Lettura dei contatori del riscaldamento](Proptech/contatori_riscaldamento/Lettura_contatori_riscaldamento.md)
-* [Notebook di prova](01_DataFrames_Intro.ipynb)
+* [Notebook di prova](01_DataFrames_Intro.html)
