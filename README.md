@@ -1,9 +1,9 @@
 # st.a.data
 
-👋 Ciao, sono @pfrap, benvenuto!  
-🌱 Qua troverai alcuni dei miei progetti in ambito data e data management, in particolare mi occupo di dati legati allo sport e al fitness, al proptech e all'immobiliare, alla salute e alla demografia. Mi appassiona la storia delle popolazioni e dei fenomeni che coinvolgono grandi masse di persone.  
+👋 Ciao, sono Pietro Frapoli, benvenuto nel mio sito!  
+🌱 Qua troverai alcuni dei miei progetti in ambito data management, in particolare legati allo sport e al fitness, al proptech e all'immobiliare, alla statistica medica e alla demografia. Mi appassiona la storia delle popolazioni e dei fenomeni che coinvolgono grandi masse di persone.  
 💞️ Non vedo l'ora di aiutarti nel tuo prossimo progetto.  
-📫 Scrivimi a pietro.frapoli@gmail.com
+📫 Scrivimi a pietro@stadata.net
 
 [Mi trovi anche su Github](https://github.com/pfrap)  
 
