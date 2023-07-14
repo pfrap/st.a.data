@@ -1,7 +1,7 @@
 # st.a.data
 
 👋 Ciao, sono Pietro Frapoli, benvenuto nel mio sito!  
-🌱 Qua troverai alcuni dei miei progetti in ambito data management, in particolare legati allo sport e al fitness, al proptech e all'immobiliare, alla statistica medica e alla demografia. Mi appassiona la storia delle popolazioni e dei fenomeni che coinvolgono grandi masse di persone.  
+🌱 Qua troverai alcuni dei miei progetti in ambito data management.  
 💞️ Non vedo l'ora di aiutarti nel tuo prossimo progetto.  
 📫 Scrivimi a pietro@stadata.net
 
