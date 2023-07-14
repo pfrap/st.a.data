@@ -16,4 +16,4 @@
 
 ## Proptech/Domotica
 * [Lettura dei contatori del riscaldamento](Proptech/contatori_riscaldamento/Lettura_contatori_riscaldamento.md)
-* [Notebook di prova](01_DataFrames_Intro.html)
+* [Notebook di prova](https://github.com/pfrap/Analisi-corsa-10k/blob/main/Analisi-corsa-10k.ipynb)
