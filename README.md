@@ -12,8 +12,7 @@
 # Alcuni dei miei progetti  
 
 ## Sport/fitness projects
-* Primo progetto
+* [Corsa 10k: FC Media](https://github.com/pfrap/Analisi-corsa-10k/blob/main/Analisi-corsa-10k.ipynb)
 
 ## Proptech/Domotica
 * [Lettura dei contatori del riscaldamento](Proptech/contatori_riscaldamento/Lettura_contatori_riscaldamento.md)
-* [Notebook di prova](https://github.com/pfrap/Analisi-corsa-10k/blob/main/Analisi-corsa-10k.ipynb)
