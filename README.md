@@ -13,6 +13,8 @@
 
 ## Sport/fitness projects
 * [Corsa 10k: FC Media](https://github.com/pfrap/Analisi-corsa-10k/blob/main/Analisi-corsa-10k.ipynb)
+* [Corse settembre-luglio (2022-2023)](https://github.com/pfrap/Corse-settembre-luglio-2023/blob/main/corse-settembre-luglio-2023.ipynb)
+
 
 ## Proptech/Domotica
 * [Lettura dei contatori del riscaldamento](Proptech/contatori_riscaldamento/Lettura_contatori_riscaldamento.md)
